@@ -1,0 +1,4 @@
+Do not open the file directly.
+Download it first.
+Then open the downloaded file.
+Failing to follow this instructions will merit a Markdown 
